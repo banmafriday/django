@@ -1,0 +1,223 @@
+INFO 2021-11-01 22:17:13,168 autoreload 578 Watching for file changes with StatReloader
+WARNING 2021-11-01 22:17:15,158 log 222 Not Found: /
+WARNING 2021-11-01 22:17:15,159 basehttp 154 "GET / HTTP/1.1" 404 2026
+INFO 2021-11-01 22:19:59,630 autoreload 203 E:\django_project\lgshop\apps\users\views.py changed, reloading.
+INFO 2021-11-01 22:20:00,035 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-01 22:20:15,564 autoreload 578 Watching for file changes with StatReloader
+WARNING 2021-11-01 22:20:16,918 log 222 Not Found: /
+WARNING 2021-11-01 22:20:16,918 basehttp 154 "GET / HTTP/1.1" 404 2026
+WARNING 2021-11-01 22:22:11,719 log 222 Not Found: /
+WARNING 2021-11-01 22:22:11,720 basehttp 154 "GET / HTTP/1.1" 404 2026
+WARNING 2021-11-01 22:22:11,965 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:22:11,966 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:22:21,571 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:22:21,572 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:22:22,180 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:22:22,180 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:22:22,776 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:22:22,776 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:22:23,385 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:22:23,386 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:22:24,002 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:22:24,003 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:22:24,614 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:22:24,614 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:22:25,219 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:22:25,220 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:22:25,829 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:22:25,830 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:22:26,435 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:22:26,436 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:22:27,034 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:22:27,035 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:22:27,651 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:22:27,652 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:22:28,264 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:22:28,264 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:22:28,872 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:22:28,874 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:22:29,478 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:22:29,479 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:22:30,084 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:22:30,085 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:22:30,698 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:22:30,698 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:22:31,296 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:22:31,297 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:22:31,913 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:22:31,913 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:22:32,530 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:22:32,530 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:22:33,004 log 222 Not Found: /users/register/
+WARNING 2021-11-01 22:22:33,005 basehttp 154 "GET /users/register/ HTTP/1.1" 404 2162
+WARNING 2021-11-01 22:23:13,303 log 222 Not Found: /
+WARNING 2021-11-01 22:23:13,304 basehttp 154 "GET / HTTP/1.1" 404 2026
+WARNING 2021-11-01 22:23:13,484 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:23:13,485 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:23:24,151 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:23:24,152 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:23:24,755 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:23:24,756 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:23:25,378 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:23:25,378 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:23:25,997 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:23:25,999 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:23:26,598 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:23:26,598 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:23:27,215 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:23:27,216 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:23:27,822 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:23:27,822 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:23:28,432 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:23:28,433 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:23:29,027 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:23:29,028 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:23:29,631 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:23:29,632 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:23:30,238 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:23:30,239 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:23:30,847 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:23:30,848 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:23:31,476 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:23:31,478 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:23:32,082 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:23:32,083 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:23:32,681 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:23:32,682 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:23:33,290 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:23:33,290 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:23:33,898 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:23:33,899 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:23:34,490 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:23:34,490 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:23:35,107 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:23:35,107 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:23:35,708 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:23:35,709 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:23:36,313 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:23:36,315 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:23:36,925 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:23:36,925 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:23:37,531 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:23:37,532 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:23:38,131 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:23:38,132 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:23:38,739 log 222 Not Found: /favicon.ico
+WARNING 2021-11-01 22:23:38,740 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-01 22:23:38,760 log 222 Not Found: /users/register/
+WARNING 2021-11-01 22:23:38,760 basehttp 154 "GET /users/register/ HTTP/1.1" 404 2162
+INFO 2021-11-01 22:25:16,967 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-01 22:26:51,252 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-01 22:29:42,965 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-01 22:34:28,658 autoreload 203 E:\django_project\lgshop\lgshop\dev.py changed, reloading.
+INFO 2021-11-01 22:49:17,760 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-01 22:49:49,850 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-01 22:50:39,935 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-01 22:51:01,145 autoreload 203 E:\django_project\lgshop\lgshop\dev.py changed, reloading.
+INFO 2021-11-01 22:51:53,106 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-02 21:37:12,833 autoreload 578 Watching for file changes with StatReloader
+WARNING 2021-11-02 21:39:28,328 log 222 Not Found: /
+WARNING 2021-11-02 21:39:28,329 basehttp 154 "GET / HTTP/1.1" 404 2026
+WARNING 2021-11-02 21:39:28,738 log 222 Not Found: /favicon.ico
+WARNING 2021-11-02 21:39:28,739 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+INFO 2021-11-02 21:55:04,641 autoreload 578 Watching for file changes with StatReloader
+WARNING 2021-11-02 21:55:06,236 log 222 Not Found: /
+WARNING 2021-11-02 21:55:06,236 basehttp 154 "GET / HTTP/1.1" 404 2026
+WARNING 2021-11-02 21:55:10,904 log 222 Not Found: /favicon.ico
+WARNING 2021-11-02 21:55:10,904 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-02 21:55:11,501 log 222 Not Found: /favicon.ico
+WARNING 2021-11-02 21:55:11,501 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-02 21:55:12,113 log 222 Not Found: /favicon.ico
+WARNING 2021-11-02 21:55:12,115 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-02 21:55:12,718 log 222 Not Found: /favicon.ico
+WARNING 2021-11-02 21:55:12,719 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+INFO 2021-11-02 21:55:12,788 basehttp 154 "GET /admin HTTP/1.1" 301 0
+INFO 2021-11-02 21:55:12,803 basehttp 154 "GET /admin/ HTTP/1.1" 302 0
+INFO 2021-11-02 21:55:12,839 basehttp 154 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1819
+INFO 2021-11-02 21:55:13,171 basehttp 154 "GET /static/admin/css/login.css HTTP/1.1" 200 1233
+INFO 2021-11-02 21:55:13,171 basehttp 154 "GET /static/admin/css/responsive.css HTTP/1.1" 200 17944
+INFO 2021-11-02 21:55:13,171 basehttp 154 "GET /static/admin/css/base.css HTTP/1.1" 200 16378
+INFO 2021-11-02 21:55:13,191 basehttp 154 "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+INFO 2021-11-02 21:55:13,212 basehttp 154 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+INFO 2021-11-02 21:55:13,212 basehttp 154 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+INFO 2021-11-02 21:55:52,698 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-02 22:00:46,841 autoreload 203 E:\django_project\lgshop\lgshop\dev.py changed, reloading.
+INFO 2021-11-02 22:00:47,370 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-02 22:01:26,126 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-02 22:17:36,067 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-02 22:23:16,317 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-02 22:24:31,002 autoreload 203 E:\django_project\lgshop\apps\users\models.py changed, reloading.
+INFO 2021-11-02 22:24:31,366 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-02 22:25:02,031 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-11-02 22:26:01,632 autoreload 203 E:\django_project\lgshop\apps\users\models.py changed, reloading.
+INFO 2021-11-02 22:26:02,007 autoreload 578 Watching for file changes with StatReloader
+WARNING 2021-11-02 22:33:38,992 log 222 Not Found: /
+WARNING 2021-11-02 22:33:38,993 basehttp 154 "GET / HTTP/1.1" 404 2026
+WARNING 2021-11-02 22:33:39,166 log 222 Not Found: /favicon.ico
+WARNING 2021-11-02 22:33:39,166 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-02 22:33:44,787 log 222 Not Found: /favicon.ico
+WARNING 2021-11-02 22:33:44,788 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-02 22:33:45,389 log 222 Not Found: /favicon.ico
+WARNING 2021-11-02 22:33:45,390 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-02 22:33:46,006 log 222 Not Found: /favicon.ico
+WARNING 2021-11-02 22:33:46,006 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-02 22:33:46,609 log 222 Not Found: /favicon.ico
+WARNING 2021-11-02 22:33:46,610 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-02 22:33:47,222 log 222 Not Found: /favicon.ico
+WARNING 2021-11-02 22:33:47,222 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-02 22:33:47,828 log 222 Not Found: /favicon.ico
+WARNING 2021-11-02 22:33:47,828 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-02 22:33:48,428 log 222 Not Found: /favicon.ico
+WARNING 2021-11-02 22:33:48,429 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-02 22:33:52,163 log 222 Not Found: /favicon.ico
+WARNING 2021-11-02 22:33:52,163 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-02 22:33:52,761 log 222 Not Found: /favicon.ico
+WARNING 2021-11-02 22:33:52,762 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-02 22:33:53,294 log 222 Not Found: /re
+WARNING 2021-11-02 22:33:53,294 basehttp 154 "GET /re HTTP/1.1" 404 2050
+WARNING 2021-11-02 22:33:57,538 log 222 Not Found: /favicon.ico
+WARNING 2021-11-02 22:33:57,538 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-02 22:33:58,139 log 222 Not Found: /favicon.ico
+WARNING 2021-11-02 22:33:58,139 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-02 22:33:58,740 log 222 Not Found: /favicon.ico
+WARNING 2021-11-02 22:33:58,740 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-02 22:33:59,355 log 222 Not Found: /favicon.ico
+WARNING 2021-11-02 22:33:59,356 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-02 22:33:59,977 log 222 Not Found: /favicon.ico
+WARNING 2021-11-02 22:33:59,978 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-02 22:34:00,582 log 222 Not Found: /favicon.ico
+WARNING 2021-11-02 22:34:00,583 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-02 22:34:01,195 log 222 Not Found: /favicon.ico
+WARNING 2021-11-02 22:34:01,196 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-02 22:34:01,710 log 222 Not Found: /users/register/
+WARNING 2021-11-02 22:34:01,710 basehttp 154 "GET /users/register/ HTTP/1.1" 404 2162
+INFO 2021-11-02 22:34:11,975 autoreload 578 Watching for file changes with StatReloader
+WARNING 2021-11-02 22:34:15,739 log 222 Not Found: /users/register/
+WARNING 2021-11-02 22:34:15,739 basehttp 154 "GET /users/register/ HTTP/1.1" 404 2162
+INFO 2021-11-02 22:34:58,079 autoreload 578 Watching for file changes with StatReloader
+WARNING 2021-11-02 22:35:00,825 log 222 Not Found: /users/register/
+WARNING 2021-11-02 22:35:00,825 basehttp 154 "GET /users/register/ HTTP/1.1" 404 2162
+INFO 2021-11-03 08:19:56,244 autoreload 578 Watching for file changes with StatReloader
+WARNING 2021-11-03 08:19:58,350 log 222 Not Found: /
+WARNING 2021-11-03 08:19:58,350 basehttp 154 "GET / HTTP/1.1" 404 2026
+WARNING 2021-11-03 08:19:58,435 log 222 Not Found: /favicon.ico
+WARNING 2021-11-03 08:19:58,436 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-03 08:20:07,119 log 222 Not Found: /favicon.ico
+WARNING 2021-11-03 08:20:07,119 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-03 08:20:07,718 log 222 Not Found: /favicon.ico
+WARNING 2021-11-03 08:20:07,718 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-03 08:20:08,318 log 222 Not Found: /favicon.ico
+WARNING 2021-11-03 08:20:08,319 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-03 08:20:08,933 log 222 Not Found: /favicon.ico
+WARNING 2021-11-03 08:20:08,933 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+WARNING 2021-11-03 08:20:09,540 log 222 Not Found: /favicon.ico
+WARNING 2021-11-03 08:20:09,540 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2077
+INFO 2021-11-03 08:20:09,959 basehttp 154 "GET /admin HTTP/1.1" 301 0
+INFO 2021-11-03 08:20:09,969 basehttp 154 "GET /admin/ HTTP/1.1" 302 0
+INFO 2021-11-03 08:20:09,999 basehttp 154 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1819
+INFO 2021-11-03 08:20:10,443 basehttp 154 "GET /static/admin/css/login.css HTTP/1.1" 200 1233
+INFO 2021-11-03 08:20:10,443 basehttp 154 "GET /static/admin/css/base.css HTTP/1.1" 200 16378
+INFO 2021-11-03 08:20:10,443 basehttp 154 "GET /static/admin/css/responsive.css HTTP/1.1" 200 17944
+INFO 2021-11-03 08:20:10,449 basehttp 154 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2021-11-03 08:20:10,470 basehttp 154 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2021-11-03 08:20:10,471 basehttp 154 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
